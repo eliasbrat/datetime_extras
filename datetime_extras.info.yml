@@ -1,0 +1,9 @@
+name: 'Datetime Extras'
+type: module
+description: 'Provides the extra widgets and formatters for datetime module.'
+package: Custom
+version: 8.0-dev
+core: 8.x
+dependencies:
+  - datetime
+  - datetime_range
